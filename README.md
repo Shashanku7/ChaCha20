@@ -1,9 +1,9 @@
 # ChaCha20
 
-> **ChaCha20** is a **256-bit stream cipher** designed by           
+ **ChaCha20** is a **256-bit stream cipher** designed by           
   **Daniel J. Bernstein**, based on a **512-bit internal state.**  
-> It operates using **20 rounds** of **quarter-round transformations** on a **4×4 matrix of 32-bit words.**  
-> The output keystream is **XORed** with plaintext for encryption, ensuring high performance and resistance to timing attacks.
+ It operates using **20 rounds** of **quarter-round transformations** on a **4×4 matrix of 32-bit words.**  
+ The output keystream is **XORed** with plaintext for encryption, ensuring high performance and resistance to timing attacks.
 
 
 
